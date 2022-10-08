@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638041400 source:c:\users\samsung\desktop\fibonacci_recursividade\main.c
+	<stdio.h>
+	<stdlib.h>
+
